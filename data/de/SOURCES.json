@@ -1,0 +1,14 @@
+{
+  "text": {
+    "title": "Die Schlachter-Bibel 1951",
+    "english": "The Holy Bible in German, Schlachter 1951 version (translated by Franz Eugen Schlachter; revised 1951 by the Genfer Bibelgesellschaft)",
+    "copyright": "Copyright © 1951 Genfer Bibelgesellschaft (Geneva Bible Society)",
+    "licence": "Creative Commons Attribution 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://ebible.org/deu1951/",
+    "sourceLabel": "eBible.org (deu1951)",
+    "sourceDate": "source files dated 2025-12-12",
+    "changes": "The verse wording is unchanged. The verse numbers of the German numbering that the source prints in brackets inside verses where it differs from the English numbering, e.g. “(03-2)”, are not shown (1,404 of them), nor Matthew 21:44, which the source leaves empty; the verses are laid out by Biblia. These changes are not endorsed by the original licensor."
+  },
+  "files": "The JSON files of this folder are the verses as Biblia reads them, under the licence of the text (Creative Commons Attribution 4.0)."
+}
